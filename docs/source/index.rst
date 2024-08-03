@@ -2,10 +2,25 @@ Welcome to CG Meerkat’s documentation!
 ===================================
 
 .. note::
+   These docs are under construction.
 
-   These docs are under construction
+.. list-table:: Add-ons’ Versions
+   :widths: 50 25 25
+   :header-rows: 1
 
-Report Bug: https://github.com/cgmeerkat/blender-addons-issues/issues
+   * - Add-on Name
+     - Latest Version
+     - Minimum Blender Version
+   * - Origin Wrangler
+     - 1.01
+     - 3.2
+   * - CycleAcoustics
+     - 1.0.0
+     - 4.0
+
+Report Bugs: https://github.com/cgmeerkat/blender-addons-issues/issues
+
+Feature Requests: https://github.com/cgmeerkat/blender-addons-issues/discussions
 
 Check out the :doc:`addons_installation` section for information on how to install Blender extensions and legacy Blender add-ons.
 
