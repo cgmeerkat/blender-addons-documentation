@@ -18,9 +18,9 @@ Welcome to CG Meerkat’s documentation!
      - 1.0.0
      - 4.0
 
-Report Bugs: https://github.com/cgmeerkat/blender-addons-issues/issues
+**Report Bugs Here:** https://github.com/cgmeerkat/blender-addons-issues/issues
 
-Feature Requests: https://github.com/cgmeerkat/blender-addons-issues/discussions
+**Feature Requests Here:** https://github.com/cgmeerkat/blender-addons-issues/discussions
 
 Check out the :doc:`addons_installation` section for information on how to install Blender extensions and legacy Blender add-ons.
 
