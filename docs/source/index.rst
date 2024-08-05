@@ -12,7 +12,7 @@ Welcome to CG Meerkat’s documentation!
      - Latest Version
      - Minimum Blender Version
    * - Origin Wrangler
-     - 1.01
+     - 1.0.2
      - 3.2
    * - CycleAcoustics
      - 1.1.0
