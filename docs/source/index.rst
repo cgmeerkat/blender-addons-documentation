@@ -12,10 +12,10 @@ Welcome to CG Meerkat’s documentation!
      - Latest Version
      - Minimum Blender Version
    * - Origin Wrangler
-     - 1.0.2
+     - 1.0.3
      - 3.2
    * - CycleAcoustics
-     - 1.1.0
+     - 1.2.0
      - 4.0
 
 **Report Bugs Here:** https://github.com/cgmeerkat/blender-addons-issues/issues
