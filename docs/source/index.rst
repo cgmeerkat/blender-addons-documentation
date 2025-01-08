@@ -30,4 +30,4 @@ Contents
 .. toctree::
 
    addons_installation
-   nodegroups/AgMax_tonemapper.rst
+   nodegroups/AgMax_tonemapper
