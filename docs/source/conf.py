@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'CG Meerkat'
-copyright = '2024, CG Meerkat'
+copyright = '2025, CG Meerkat'
 author = 'CG Meerkat'
 
 release = '1'
