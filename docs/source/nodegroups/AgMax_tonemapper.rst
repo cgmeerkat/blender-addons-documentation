@@ -5,6 +5,7 @@ General
 ==========
 .. image:: ../images/AgMax_Screenshot.png
 
+This compositor nodegroup is intended to be used with the View Transform (in the Color Management panel) set to the “Standard” option.
 
 Controls
 ==========
