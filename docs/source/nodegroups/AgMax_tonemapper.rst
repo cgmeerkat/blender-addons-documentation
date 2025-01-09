@@ -29,7 +29,7 @@ Higher values produce visually smoother highlight desaturation behavior in brigh
 
 Abney Effect Hue Compensation
 ----------
-The human eye tends to perceive pure RGB blue as a bit purpley when white is mixed with it, and pure RGB red as a bit pinkish when white is mixed with it.
+The human eye tends to perceive pure RGB blue as a bit purpley when white is mixed with it, pure RGB red as a bit pinkish when white is mixed with it, and pure RGB green as a bit cyanish when white is mixed with it.
 
 This setting controls the extent to which the hues of these colors get adjusted the more whitening-desaturation gets applied to them, compensating for human visual perception.
 
