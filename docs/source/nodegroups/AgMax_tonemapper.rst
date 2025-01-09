@@ -15,7 +15,7 @@ Adjusts image exposure in `stops <https://photographylife.com/what-are-exposure-
 
 Dynamic Range Compression
 ----------
-Controls how much the bright parts of the input image are reduced in luminosity to include more highlight detail in the output image. Lower values produce more blown-out highlights, and higher values make a flatter, less contrasty, look with more colorful highlights.
+Controls how much the bright parts of the input image are reduced in luminosity to include more highlight detail in the output image. Lower values produce more blown-out highlights, and higher values make a softer, less contrasty, look with more colorful highlights.
 
 .. image:: ../images/Dynamic_Range_Compression_Sweeps.png
 
