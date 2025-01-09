@@ -1,4 +1,4 @@
 Usage Guides for Nodegroups
 ##########
 
-* :doc:nodegroups/AgMax_tonemapper
+* :doc:`AgMax Tonemapper <nodegroups/AgMax_tonemapper>`
