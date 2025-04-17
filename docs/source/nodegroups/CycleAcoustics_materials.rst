@@ -32,4 +32,4 @@ When **leaving** a material (which is when a sound ray passes through a surface 
 
 Diffusion
 ---------
-This setting simulates rough surfaces that scatter sound waves, such as carpets. The typical use case of this setting is when you have flat geometry with a normal map on it that makes it look textured.
+This setting simulates rough surfaces that scatter sound waves, such as carpets. The typical use case of this setting is when you have smooth or flat geometry with a bump/normal map on it that makes it look textured/rough.
