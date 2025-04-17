@@ -15,7 +15,7 @@ Welcome to CG Meerkat’s documentation!
      - 1.0.3
      - 3.2
    * - CycleAcoustics
-     - 1.2.0
+     - 1.2.1
      - 4.0
 
 **Report Bugs Here:** https://github.com/cgmeerkat/blender-addons-issues/issues
