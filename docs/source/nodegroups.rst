@@ -9,3 +9,4 @@ Contents
 .. toctree::
 
    nodegroups/AgMax_tonemapper
+   nodegroups/CycleAcoustics_materials
