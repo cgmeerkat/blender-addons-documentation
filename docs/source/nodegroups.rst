@@ -2,6 +2,7 @@ Usage Guides for Nodegroups
 ##########
 
 * :doc:`AgMax Tonemapper <nodegroups/AgMax_tonemapper>`
+* :doc:`CycleAcoustics <nodegroups/CycleAcoustics>`
 
 Contents
 --------
