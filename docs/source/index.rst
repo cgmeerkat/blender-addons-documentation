@@ -30,4 +30,6 @@ Contents
 .. toctree::
 
    addons_installation
+   addons
    nodegroups
+   release_notes
